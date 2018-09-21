@@ -1,0 +1,53 @@
+{
+  "all": [
+    {
+      "member": "23882791793",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "未开通",
+      "status": "failed",
+      "id": "a",
+      "name":"王*君"
+    },
+    {
+      "member": "23882791793",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "已开通",
+      "status": "success",
+      "id": "b",
+      "name":"王*君"
+    },
+    {
+      "member": "23882791793",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "未开通",
+      "status": "failed",
+      "id": "c",
+      "name":"王*君"
+    }
+  ],
+  "succed": [
+        {
+      "member": "23882791793",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "已开通",
+      "status": "success",
+      "id": "b",
+      "name":"王*君"
+    }
+  ],
+  "failed": [
+    {
+      "member": "23882791793",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "未开通",
+      "status": "failed",
+      "id": "a",
+      "name":"王*君"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "allList": [{
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342a账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24",
+      "detail":{
+        "money":600.00,
+        "incomeType": "业务分成"
+      }
+    },
+    { 
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342b账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342c账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342a账号",
+      "incomeType": "分成返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342b账号",
+      "incomeType": "分成返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342a账号",
+      "incomeType": "提现返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342b账号",
+      "incomeType": "提现返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    }
+  ],
+  "tui": [{
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342a账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342b账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342c账号",
+      "incomeType": "推广返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    }
+  ],
+  "fen": [{
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342a账号",
+      "incomeType": "分成返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342b账号",
+      "incomeType": "分成返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    }
+  ],
+  "ti": [{
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342账号",
+      "incomeType": "提现返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    },
+    {
+      "imgUrl": "../../../../../static/images/entery-my/entry-my_03.gif",
+      "ID": "2342账号",
+      "incomeType": "提现返拥",
+      "money": 600.00,
+      "accountingDate": "2018-08-24"
+    }
+  ]
+}

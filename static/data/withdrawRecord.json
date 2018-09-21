@@ -1,0 +1,48 @@
+{
+  "all": [
+    {
+      "account": "提现到云付通余额",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "处理中",
+      "status": "processed",
+      "id": "a"
+    },
+    {
+      "account": "提现到云付通余额",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "提取成功",
+      "status": "success",
+      "id": "b"
+    },
+    {
+      "account": "提现到云付通余额",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "提取失败",
+      "status": "failed",
+      "id": "c"
+    }
+  ],
+  "succed": [
+        {
+      "account": "提现到云付通余额",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "提取成功",
+      "status": "success",
+      "id": "b"
+    }
+  ],
+  "processed": [
+    {
+      "account": "提现到云付通余额",
+      "data": "08-30 14:52",
+      "amount": "3000.00",
+      "statusContent": "处理中",
+      "status": "processed",
+      "id": "a"
+    }
+  ]
+}
